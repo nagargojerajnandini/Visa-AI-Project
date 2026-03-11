@@ -3,44 +3,43 @@
 ## Project Title
 **AI Enabled Visa Status Prediction and Processing Time Estimator**
 
-## Project Description
-This project uses Machine Learning to predict:
-- Visa Approval Status (Approved / Rejected)
-- Estimated Visa Processing Time (in days)
+## Project Overview
+The AI Enabled Visa Status Prediction and Processing Time Estimator is a machine learning based project designed to analyze visa application data and predict the likelihood of visa approval as well as estimate the processing time.
 
-The model is trained using a structured visa application dataset containing applicant details such as income, education, travel history, documents status, interview score, etc.
+The system uses data preprocessing, exploratory data analysis (EDA), and machine learning algorithms to build predictive models that help in understanding patterns within visa application datasets.
+
+## Objectives
+- Analyze visa application data
+- Perform data preprocessing and cleaning
+- Conduct exploratory data analysis (EDA)
+- Apply machine learning models
+- Evaluate model performance
 
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Scikit-learn
 - Jupyter Notebook
 
-## Milestone 2 – Features Implemented
+## Project Milestones
 
-✅ Data Loading  
-✅ Data Cleaning & Missing Value Handling  
-✅ Exploratory Data Analysis (EDA)  
-✅ Feature Engineering & Encoding  
-✅ Professional Visualizations (8+ charts)  
-✅ Correlation Analysis  
+### Milestone 1 – Data Preprocessing
+Dataset loading, data cleaning, and dataset exploration.
 
-**Visualizations Included:**
-- Visa Status Distribution  
-- Processing Time Distribution  
-- Education vs Visa Status  
-- Experience Level vs Approval  
-- Correlation Heatmap  
-- Processing Time Boxplot  
-- Country-Specific Analysis  
-- Visa Type Analysis  
+### Milestone 2 – Exploratory Data Analysis
+Data visualization and understanding patterns in the dataset.
 
-## How to Run
-1. Open Jupyter Notebook (`Visa AI Final Project.ipynb`)  
-2. Load the dataset (`visa_dataset_1000.csv`)  
-3. Run all cells in order  
-4. Check visualizations and feature engineering outputs  
+### Milestone 3 – Machine Learning Models
+Implementation of machine learning models and performance evaluation.
+
+## Machine Learning Models
+- Linear Regression
+- Random Forest
+
+## Evaluation Metrics
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- Mean Absolute Error (MAE)  
 
