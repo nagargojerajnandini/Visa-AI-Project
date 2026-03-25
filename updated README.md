@@ -93,37 +93,37 @@ Visa-Processing-AI/
 
 ----
 
-
 ---
 
 ## ▶️ How to Run the Project
 
-### Install dependencies:
-```bash
+Install dependencies:
 pip install -r requirements.txt
-```bash
+
+
+Run the application:
 streamlit run app.py
 
 
+---
 
-🌐 Deployment Link
+## 🌐 Deployment Link
 
 👉 https://your-app.streamlit.app
 
 (Replace this with your deployed Streamlit link)
 
+---
 
-
-🙌 Acknowledgment
+## 🙌 Acknowledgment
 
 I would like to thank my mentors and team members for their continuous support and guidance throughout this internship.
 
+---
 
+## 👩‍💻 Author
 
-
-👩‍💻 Author
-
-Rajnandini Nagargoje
-
-🔗 GitHub:
+Rajnandini Nagargoje  
 https://github.com/nagargojerajnandini/Visa-AI-Project
+
+
