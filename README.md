@@ -1,27 +1,35 @@
 🌍 Visa Processing Time Estimator & Dashboard
+
+
 📌 Project Overview
 This project is developed as part of the internship program and focuses on predicting Visa Processing Time using input parameters such as Visa Type, Country, and Application Date.
 
 The application also includes a Data Analysis Dashboard to visualize processing trends and insights.
+
 
 🎯 Objectives
 Predict visa processing time accurately
 Analyze visa processing data
 Build an interactive dashboard
 Deploy the application online
+
+
 🚀 Features
 🎯 Visa Processing Time Prediction
 📊 Data Analysis Dashboard
 📅 Month-wise Trend Analysis
 📦 Clean UI using Streamlit
 📊 Data Analysis Dashboard
-The dashboard includes:
 
+
+The dashboard includes:
 Distribution of Processing Days (Histogram)
 Boxplot of Processing Days
 Correlation Heatmap
 Processing Days vs Application Month
 Monthly Trend Line Graph
+
+
 🧠 Methodology
 Milestone 1: Data Collection
 Collected visa dataset
@@ -35,12 +43,16 @@ Evaluated output
 Milestone 4: Deployment
 Developed Streamlit application
 Deployed project online
+
+
 🛠️ Technologies Used
 Python
 Pandas
 Matplotlib
 Seaborn
 Streamlit
+
+
 📂 Project Structure
 Visa-Processing-AI/
 │
@@ -56,18 +68,24 @@ Visa-Processing-AI/
 ├── Agile_Documentation.md
 ├── Unit_Testing.md
 ├── Defect_Tracker.md
+
+
 ▶️ How to Run the Project
 Install dependencies:
 pip install -r requirements.txt
 Run the application:
 streamlit run app.py
+
+
 🌐 Deployment Link
 👉 https://your-app.streamlit.app
 
 (Replace this with your deployed Streamlit link)
 
+
 🙌 Acknowledgment
 I would like to thank my mentors and team members for their continuous support and guidance throughout this internship. it using this format 
+
 
 👩‍💻 Author
 
