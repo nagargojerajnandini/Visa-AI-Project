@@ -1,64 +1,86 @@
-🌍 Visa Processing Time Estimator & Dashboard
+# 🌍 Visa Processing Time Estimator & Dashboard
 
+---
 
-📌 Project Overview
-This project is developed as part of the internship program and focuses on predicting Visa Processing Time using input parameters such as Visa Type, Country, and Application Date.
+## 📌 Project Overview
 
-The application also includes a Data Analysis Dashboard to visualize processing trends and insights.
+This project is developed as part of the internship program and focuses on predicting **Visa Processing Time** using input parameters such as:
 
+- Visa Type  
+- Country  
+- Application Date  
 
-🎯 Objectives
-Predict visa processing time accurately
-Analyze visa processing data
-Build an interactive dashboard
-Deploy the application online
+The application also includes a **Data Analysis Dashboard** to visualize processing trends and insights.
 
+---
 
-🚀 Features
-🎯 Visa Processing Time Prediction
-📊 Data Analysis Dashboard
-📅 Month-wise Trend Analysis
-📦 Clean UI using Streamlit
-📊 Data Analysis Dashboard
+## 🎯 Objectives
 
+- Predict visa processing time accurately  
+- Analyze visa processing data  
+- Build an interactive dashboard  
+- Deploy the application online  
+
+---
+
+## 🚀 Features
+
+- 🎯 Visa Processing Time Prediction  
+- 📊 Data Analysis Dashboard  
+- 📅 Month-wise Trend Analysis  
+- 📦 Clean UI using Streamlit  
+
+---
+
+## 📊 Data Analysis Dashboard
 
 The dashboard includes:
-Distribution of Processing Days (Histogram)
-Boxplot of Processing Days
-Correlation Heatmap
-Processing Days vs Application Month
-Monthly Trend Line Graph
 
+- Distribution of Processing Days (Histogram)  
+- Boxplot of Processing Days  
+- Correlation Heatmap  
+- Processing Days vs Application Month  
+- Monthly Trend Line Graph  
 
-🧠 Methodology
-Milestone 1: Data Collection
-Collected visa dataset
-Understood dataset structure
-Milestone 2: Data Analysis
-Performed EDA
-Created visualizations
-Milestone 3: Model Building
-Built prediction logic
-Evaluated output
-Milestone 4: Deployment
-Developed Streamlit application
-Deployed project online
+---
 
+## 🧠 Methodology
 
-🛠️ Technologies Used
-Python
-Pandas
-Matplotlib
-Seaborn
-Streamlit
+### Milestone 1: Data Collection
+- Collected visa dataset  
+- Understood dataset structure  
 
+### Milestone 2: Data Analysis
+- Performed EDA  
+- Created visualizations  
 
-📂 Project Structure
+### Milestone 3: Model Building
+- Built prediction logic  
+- Evaluated output  
+
+### Milestone 4: Deployment
+- Developed Streamlit application  
+- Deployed project online  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Streamlit  
+
+---
+
+## 📂 Project Structure
+
 Visa-Processing-AI/
 │
 ├── app.py
 ├── predict.py
-|   tast_cases.py
+├── test_cases.py
 ├── visa_dataset.csv
 ├── requirements.txt
 │
@@ -69,25 +91,39 @@ Visa-Processing-AI/
 ├── Unit_Testing.md
 ├── Defect_Tracker.md
 
+----
 
-▶️ How to Run the Project
-Install dependencies:
+
+---
+
+## ▶️ How to Run the Project
+
+### Install dependencies:
+```bash
 pip install -r requirements.txt
-Run the application:
+```bash
 streamlit run app.py
 
 
+
 🌐 Deployment Link
+
 👉 https://your-app.streamlit.app
 
 (Replace this with your deployed Streamlit link)
 
 
+
 🙌 Acknowledgment
-I would like to thank my mentors and team members for their continuous support and guidance throughout this internship. it using this format 
+
+I would like to thank my mentors and team members for their continuous support and guidance throughout this internship.
+
+
 
 
 👩‍💻 Author
 
 Rajnandini Nagargoje
+
+🔗 GitHub:
 https://github.com/nagargojerajnandini/Visa-AI-Project
