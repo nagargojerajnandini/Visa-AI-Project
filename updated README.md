@@ -3,14 +3,9 @@
 ---
 
 ## 📌 Project Overview
+This project is developed as part of the internship program and focuses on predicting Visa Processing Time using input parameters such as Visa Type, Country, and Application Date.
 
-This project is developed as part of the internship program and focuses on predicting **Visa Processing Time** using input parameters such as:
-
-- Visa Type  
-- Country  
-- Application Date  
-
-The application also includes a **Data Analysis Dashboard** to visualize processing trends and insights.
+The application also includes a Data Analysis Dashboard to visualize processing trends and insights.
 
 ---
 
