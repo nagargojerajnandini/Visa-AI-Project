@@ -104,9 +104,9 @@ streamlit run app.py
 
 ## 🌐 Deployment Link
 
-👉 https://your-app.streamlit.app
+👉 https://visa-ai-project.streamlit.app/
 
-(Replace this with your deployed Streamlit link)
+
 
 ---
 
