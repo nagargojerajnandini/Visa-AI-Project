@@ -4,3 +4,4 @@ matplotlib
 seaborn
 scikit-learn
 altair<5.0.0
+plotly
